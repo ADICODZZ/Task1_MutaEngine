@@ -1,0 +1,9 @@
+/* section */
+.hero{
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* Dark gradient background */
+  background: linear-gradient(180deg, #0e1621 0%, #111f29 50%, #162b3a 100%);
+  color: #fff;
+  
+}
